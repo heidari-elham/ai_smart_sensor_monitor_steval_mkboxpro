@@ -16,7 +16,7 @@ The firmware is designed to operate the Machine Learning Core (MLC) and the Inte
 
 - ![](Aspose.Words.43e8458d-4736-424d-863c-e5a1be6c3e8b.001.jpeg) To integrate the ISPU sensor with the system, connect the sensor’s adapter to the **DIL24** socket on the SensorTile.Box Pro board.
 
-
+  ![](images/Aspose.Words.43e8458d-4736-424d-863c-e5a1be6c3e8b.001.jpeg)
 
 
 
